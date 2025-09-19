@@ -1,5 +1,3 @@
-package com.ex;
-
 import java.util.Scanner;
 
 class Atm1{
